@@ -4,7 +4,6 @@ This project is inspired by
 2. [blocktools](https://github.com/tenthirtyone/blocktools)
 3. [7daystalk-01](https://baya.github.io/2017/05/11/7daystalk.html)
 
-Wrote by @[Lisanaaa](https://github.com/Lisanaaa) for interview tasks of Arcblock.
 
 ## Block Chain Tools
 
